@@ -21,6 +21,7 @@ namespace GitHub_Test4.Controllers
         public IActionResult Index()
         {
             //A comment has been added to Index in Test4.
+            //A second comment
             return View();
         }
 
