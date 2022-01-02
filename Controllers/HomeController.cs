@@ -23,6 +23,7 @@ namespace GitHub_Test4.Controllers
             //A comment has been added to Index in Test4.
             //A second comment.
             //A third comment.
+            //A fourth comment.
             return View();
         }
 
