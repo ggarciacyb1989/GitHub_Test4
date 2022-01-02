@@ -25,6 +25,7 @@ namespace GitHub_Test4.Controllers
             //A third comment.
             //A fourth comment.
             //A fifth comment.
+            //Comment number six.
             return View();
         }
 
